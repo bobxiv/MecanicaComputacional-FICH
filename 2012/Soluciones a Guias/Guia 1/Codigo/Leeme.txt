@@ -1,0 +1,20 @@
+Cada ejercicio su script asociado y que resuelve todo es EjercicioXPrueba.m
+
+Hay dos grandes codigos:
+1) El de resolucion de ecuaciones de calor estacionarias
+	- Resuelve con todo: 1D o 2D
+						 nodos homogeneamente espaciados o heterogeneamente espaciados
+						 Orden de solucion O(dx^2,dy^2) para mallas equiespaciadas
+						 Condiciones Neumann o Dirichlet a placar
+						 No usa nodos ficticios
+	Los principales scripts relacionados: MainScript.m es el de ejemplo para ver como se usa
+										  la funcion SolveFD es la principal
+										  
+2) El de resolucion de ecuaciones de calor no estacionarias. No es tan dinamico como el estacionario.
+Puede generar videos con cada solucion.
+Todos los scripts relacionados son: Ejercicio5Prueba.m
+									ej5_movie.m
+									ej5_ecpl.m
+									ej5_impl.m
+									ej5_cn.m
+									pos.m

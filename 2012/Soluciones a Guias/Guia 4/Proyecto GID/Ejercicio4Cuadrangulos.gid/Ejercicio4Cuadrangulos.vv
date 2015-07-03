@@ -1,0 +1,41 @@
+BeginZE C:\Users\windows\Documents\Facultad\Mecanica Computacional\Practica 2012\Soluciones a Guias\Guia 4\Proyecto GID\Ejercicio4Cuadrangulos.gid\Ejercicio4Cuadrangulos.vv
+   x -0.94170224666595459 12.821201324462891
+   y 5.422976016998291 -0.87915539741516113
+   z -15 15
+   e 5
+   v 0 0 0
+   r 1
+   m 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1
+   c 0 0 0
+   pd 0
+   pno 0
+   pfo 0
+   pf 4
+   pv 0
+   NowUse 1
+   DrawingType 0
+   LightVector 90 90 150 0
+   OGLShadow(UseShadows) 0
+   OGLShadow(RenderMode) RenderFast
+   OGLShadow(ShadowBias) 0
+   OGLShadow(AmbientShadows) 0
+   OGLShadow(UseFBO) 0
+   OGLShadow(FBOSize) 0
+   OGLShadow(DimmedLightFactor) 0
+   OGLStereo(UseStereo) 0
+   OGLStereo(RelativeEyeDistance) 1
+   OGLStereo(FlipEyes) 0
+   OGLStereo(StereoMode) AnaglyphColors
+   OGLStereo(EyeDistance) 0.075
+   OGLStereo(LeftEyeDistance) 1 0 0 1
+   OGLStereo(RightEyeDistance) 0 1 1 1
+EndZE C:\Users\windows\Documents\Facultad\Mecanica Computacional\Practica 2012\Soluciones a Guias\Guia 4\Proyecto GID\Ejercicio4Cuadrangulos.gid\Ejercicio4Cuadrangulos.vv
+
+BeginMirror
+   Mirror 0 Angle 0.0 AngleFake -15.0 SizeFactor 2.0 HeightOffset 0.25 Color #d9e5f24d Backlight Off EdgeStyle No Type Scene DrawMode Mirror
+EndMirror
+
+BeginInfo
+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
+
+EndInfo
